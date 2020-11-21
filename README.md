@@ -4,8 +4,8 @@
 StdID | Name
 ------------ | -------------
 **60790** | **Syed Muhammad Tanzeel** <!--this is the group leader in bold-->
-54321 | Sajid Rashid
-19283 | Tipu Pitu
+12345 | Ehrar Hussain
+54321 | Siraj Muneer
 <!-- Replace name and student ids with acutally group member names and ids-->
 
 ## Description ##
