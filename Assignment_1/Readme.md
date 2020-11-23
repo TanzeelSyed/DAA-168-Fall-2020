@@ -10,3 +10,5 @@ StdID | Name
 ## Description ##
 This repository contains assignments and project submitted to DM course offered in Fall 2020 at PafKiet.
 
+By Syed Muhammad Tanzeel
+
