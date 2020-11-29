@@ -10,3 +10,6 @@ StdID | Name
 ## Description ##
 This repository contains assignments and project submitted to DAA course offered in Fall 2020 at PafKiet.
 
+## Phase_Final N-Queen Solution by Recursive Backtracking Solutions ##
+   # Dynamic Programming Solutions Algorithm Analysis ##
+
