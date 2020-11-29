@@ -14,6 +14,10 @@ By Ehrar Hussain
 
 ## Phase_1 N-Queen Solution by Recursive Backtracking Solutions ##
    # Recursive Backtracking Solutions Algorithm Analysis ##
+   
+   Backtracking alogrithm is a technique which is used in order to recursively solve problems by
+   attempting to construct a solution progressively, one part at a time, and clearing solution
+   that doesn't succeed to satisfy the limits of the problem at any point of time.
 
 ## Time Complexity ##
 
