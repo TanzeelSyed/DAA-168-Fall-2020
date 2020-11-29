@@ -24,3 +24,6 @@ so if we reach for n characters in a string of m characters, n*m tries will be n
 
 The biggest drawback of the brute-force approach is that the number of natural candidates is prohibitively high for certain real-world issues. 
 If n is a 64-bit natural random number, which has an average of about 19 decimal digits, it will take about 10 years to check.
+
+The benefit of this method is that to use one of these algorithms, you do not need any domain-specific expertise.
+For solving the problem, a brute-force algorithm aims to use the simplest possible approach.
