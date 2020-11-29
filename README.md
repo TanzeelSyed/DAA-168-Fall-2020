@@ -10,3 +10,5 @@ StdID | Name
 
 ## Description ##
 This repository contains assignments and project submitted to DAA course offered in Fall 2020 at PafKiet.
+
+ALL 3 SOLUTIONS OF N-QUEEN PROBLEM ARE IN ONE FILE AND UPLOADED TO ALL 3 FOLDERS (Assignment_1,Phase 1,Final Phase)
