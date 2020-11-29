@@ -11,3 +11,6 @@ StdID | Name
 This repository contains assignments and project submitted to DAA course offered in Fall 2020 at PafKiet.
 
 By Ehrar Hussain
+
+## Phase_1 N-Queen Solution by Recursive Backtracking Solutions ##
+   # Recursive Backtracking Solutions Algorithm Analysis ##
