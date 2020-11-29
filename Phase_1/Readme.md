@@ -14,3 +14,13 @@ By Ehrar Hussain
 
 ## Phase_1 N-Queen Solution by Recursive Backtracking Solutions ##
    # Recursive Backtracking Solutions Algorithm Analysis ##
+
+## Time Complexity ##
+
+n | time
+------------ | -------------
+4 | 45.000000682193786
+8 |  5.000001692678779
+16 | 4.999994416721165
+32 | 5.000001692678779
+64 | 9.999996109399945
