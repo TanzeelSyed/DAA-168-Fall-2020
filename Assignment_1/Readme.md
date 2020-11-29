@@ -12,3 +12,15 @@ This repository contains assignments and project submitted to DM course offered 
 
 By Syed Muhammad Tanzeel
 
+## Assignment_1 N-Queen Solution by Brute-Force Algorithm ##
+   ## Brute-force Algorithm Analysis ##
+
+Brute Force Algorithms are just what they sound like, basic methods that rely on pure computational power 
+to solve a problem and try every possibility to increase performance rather than sophisticated techniques.
+
+The brute force algorithm looks for all text positions between 0 and n-m, whether or not the pattern begins there. 
+After each attempt, precisely 1 location moves the pattern to the right. In this algorithm, the time complexity is O(m*n) 
+so if we reach for n characters in a string of m characters, n*m tries will be needed.
+
+The biggest drawback of the brute-force approach is that the number of natural candidates is prohibitively high for certain real-world issues. 
+If n is a 64-bit natural random number, which has an average of about 19 decimal digits, it will take about 10 years to check.
