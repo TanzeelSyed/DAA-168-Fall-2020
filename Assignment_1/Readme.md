@@ -27,3 +27,16 @@ If n is a 64-bit natural random number, which has an average of about 19 decimal
 
 The benefit of this method is that to use one of these algorithms, you do not need any domain-specific expertise.
 For solving the problem, a brute-force algorithm aims to use the simplest possible approach.
+
+## Time Complexity ##
+
+n | time
+------------ | -------------
+4 | 30.000002880115062
+8 |  5.000001692678779
+16 | 9.999996109399945
+32 | 19.999999494757503
+64 | 29.999996109399945
+
+
+
