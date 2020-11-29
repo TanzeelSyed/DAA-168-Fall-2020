@@ -8,6 +8,6 @@ StdID | Name
 <!-- Replace name and student ids with acutally group member names and ids-->
 
 ## Description ##
-This repository contains assignments and project submitted to DM course offered in Fall 2020 at PafKiet.
+This repository contains assignments and project submitted to DAA course offered in Fall 2020 at PafKiet.
 
 By Ehrar Hussain
