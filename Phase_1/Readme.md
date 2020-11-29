@@ -28,6 +28,10 @@ By Ehrar Hussain
    queens comes to 0 or if there is no place left which is safe. In case if there is no place 
    left for remaining queen we change the position of last queen that was placed. We have to 
    carry on with this process and in the conclusion we get the desired solution.
+   
+   The advantage of Backtracking algorithm is it is relatively easier to code and use less
+   lines of code. It works step by step representing the solution to the required problem
+   which is very simple interpret.
 
 ## Time Complexity ##
 
